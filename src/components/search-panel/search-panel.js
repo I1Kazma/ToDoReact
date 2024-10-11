@@ -16,6 +16,8 @@ class SearchPanel extends Component {
     }
 
 
+
+
     render() {
         return (
             <input
